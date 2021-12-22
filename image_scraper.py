@@ -5,7 +5,6 @@ import requests
 import io
 from PIL import Image
 import time
-import sys
 import os 
 import argparse
 
