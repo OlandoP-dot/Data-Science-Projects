@@ -8,4 +8,5 @@ Simple google images scraper that uses arg parser to facilitate automation and w
 - Pillow
 
 
-Tested successfully in Linux environment.
+***Tested successfully in Linux environment.***
+
