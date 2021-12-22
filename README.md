@@ -3,9 +3,9 @@ Simple google images scraper that uses arg parser to facilitate automation and w
 
 
 Requirements:
-selenium
-requests
-Pillow
+- selenium
+- requests
+- Pillow
 
 
 Tested successfully in Linux environment.
