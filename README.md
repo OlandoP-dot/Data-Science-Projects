@@ -36,3 +36,33 @@ Simple recommendation system based on user ratings around a threshold
 
 ***Tested successfully in Linux/Windows environment.***
 
+
+# King County House Price Prediction
+Predictive Model for House Prices in King County, Seattle.
+
+
+### Requirements:
+- numpy
+- pandas
+- matplotlib or seaborn
+- tensorflow
+- sklearn
+
+
+***Tested successfully in Linux/Windows environment.***
+
+
+# Benign or Malignant Tumor Classification
+Classification Model for Benign vs Malignant Cancer Tumors
+
+
+### Requirements:
+- numpy
+- pandas
+- matplotlib or seaborn
+- tensorflow
+- sklearn
+
+
+***Tested successfully in Linux/Windows environment.***
+
