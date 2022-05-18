@@ -23,3 +23,16 @@ Simple NLP Spam detector.
 
 ***Tested successfully in Linux/Windows environment.***
 
+
+# Simple Movie Recommender
+Simple recommendation system based on user ratings around a threshold
+
+
+### Requirements:
+- numpy
+- pandas
+- matplotlib or seaborn
+
+
+***Tested successfully in Linux/Windows environment.***
+
